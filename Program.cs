@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Person[] people = new Person[]
-        {
+        { 
             new Person("Іван", "Петров", 25),
             new Person("Марія", "Іванова", 30),
             new Person("Петро", "Сидоров", 20),
